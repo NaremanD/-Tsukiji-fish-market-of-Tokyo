@@ -1,5 +1,7 @@
 Machine Learning Homework Requirements:
 
+https://www.japan-guide.com/g18/3021_05.jpg
+
 Hello! Welcome to the famous Tsukiji fish market of Tokyo, Japan! We came here to collect data on some of the fish they have here 
 but we didn't wake up at 5am for the tuna auction and by the time we showed up they were only left with a few species of fish. 
 We got to work and gathered measurements from a few different species of fish and want you to train a regression model to predict
